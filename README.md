@@ -1,26 +1,27 @@
-# ?? MovieWorld
+# 🎬 MovieWorld
 
-**MovieWorld** is an AI-powered movie recommendation system built with Python and Streamlit.
+MovieWorld is an **AI-powered movie recommendation system** built with Python and Streamlit.
 
-It uses **TF-IDF and Cosine Similarity** to recommend movies based on their content, with a **Random Forest Regressor** included as a machine learning component for rating prediction.
+It uses **TF-IDF and Cosine Similarity** for content-based movie recommendations and includes a **Random Forest Regressor** as a machine learning component.
 
-### ? Features
+### ✨ Features
 
-- ?? Movie recommendations
-- ?? Content-based filtering
-- ??? Real movie posters using OMDb API
-- ? Movie ratings
-- ??? Genres, year & runtime
-- ?? Movie details
+* 🎬 Movie recommendations
+* 🔎 Content-based filtering
+* 🖼️ Real movie posters using OMDb API
+* ⭐ Movie ratings
+* 🏷️ Genres, runtime & release year
+* 📝 Movie details
 
-### ??? Tech Stack
+### 🛠️ Tech Stack
 
-**Python � Pandas � NumPy � Scikit-learn � Streamlit**
+**Python • Pandas • NumPy • Scikit-learn • Streamlit **
 
-### ?? Dataset
+### 📊 Dataset
 
 TMDB 5000 Movies Dataset
 
-### ????? Author
+### 👨‍💻 Author
 
-**Suvojit Pal** � B.Tech CSE Student | Aspiring Software Engineer
+**Suvojit Pal**
+B.Tech CSE Student | Aspiring Software Engineer
